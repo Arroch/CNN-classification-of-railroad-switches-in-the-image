@@ -39,4 +39,5 @@ def img_data_gen():
                         break
 
 
-img_data_gen()
+if __name__ == '__main__':
+    img_data_gen()
